@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Meses",
+            "request": "launch",
+            "mainClass": "Meses",
+            "projectName": "cursoAutomacaoExercicios_5bb9cc5b"
+        },
+        {
+            "type": "java",
+            "name": "Ex04",
+            "request": "launch",
+            "mainClass": "Ex04",
+            "projectName": "cursoAutomacaoExercicios_5bb9cc5b"
+        },
+        {
+            "type": "java",
+            "name": "lerNumeros",
+            "request": "launch",
+            "mainClass": "lerNumeros",
+            "projectName": "cursoAutomacaoExercicios_5bb9cc5b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Tabuada",
+            "request": "launch",
+            "mainClass": "Tabuada",
+            "projectName": "cursoAutomacaoExercicios_5bb9cc5b"
+        },
+        {
+            "type": "java",
+            "name": "lerPalavra",
+            "request": "launch",
+            "mainClass": "lerPalavra",
+            "projectName": "cursoAutomacaoExercicios_5bb9cc5b"
+        },
+        {
+            "type": "java",
+            "name": "valoresTrocados",
+            "request": "launch",
+            "mainClass": "valoresTrocados",
+            "projectName": "cursoAutomacaoExercicios_5bb9cc5b"
+        }
+    ]
+}
