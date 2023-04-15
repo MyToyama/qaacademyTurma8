@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AdicaoeSubtracao",
+            "request": "launch",
+            "mainClass": "AdicaoeSubtracao",
+            "projectName": "qaacademyTurma8_a488cb96"
+        },
+        {
+            "type": "java",
+            "name": "Ex04",
+            "request": "launch",
+            "mainClass": "Ex04",
+            "projectName": "qaacademyTurma8_a488cb96"
+        },
+        {
+            "type": "java",
+            "name": "Meses",
+            "request": "launch",
+            "mainClass": "Meses",
+            "projectName": "qaacademyTurma8_a488cb96"
+        },
+        {
+            "type": "java",
+            "name": "Tabuada",
+            "request": "launch",
+            "mainClass": "Tabuada",
+            "projectName": "qaacademyTurma8_a488cb96"
+        },
+        {
+            "type": "java",
+            "name": "lerNumeros",
+            "request": "launch",
+            "mainClass": "lerNumeros",
+            "projectName": "qaacademyTurma8_a488cb96"
+        },
+        {
+            "type": "java",
+            "name": "lerPalavra",
+            "request": "launch",
+            "mainClass": "lerPalavra",
+            "projectName": "qaacademyTurma8_a488cb96"
+        },
+        {
+            "type": "java",
+            "name": "valoresTrocados",
+            "request": "launch",
+            "mainClass": "valoresTrocados",
+            "projectName": "qaacademyTurma8_a488cb96"
+        }
+    ]
+}
